@@ -9,12 +9,14 @@
 - The Workaholic's Witchcraft
 
 
-- Tome of Technical Terrors
+- Tome of Technical Eerrors
 
 
 - Ludicrous Ludic Lore
 
 
-### Adding specific index
+### Adding specific index 
+
+- Tome of Technical Errors - Vocabulary
 
 
